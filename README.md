@@ -3,7 +3,7 @@
 I am a full-stack developer 💻 . I am interested in contributing to open-source projects 🌱.
 
 ### My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,tailwind,nextjs,vue,nodejs,grafana,java,materialui,mongodb,mysql,postgres,prisma,py,		)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,tailwind,nextjs,vue,nodejs,grafana,java,materialui,mongodb,mysql,postgres,graphql,prisma,py,		)](https://skillicons.dev)
 
 
 
